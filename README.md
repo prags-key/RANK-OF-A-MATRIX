@@ -15,7 +15,7 @@ To write a python program to find the rank of a matrix
 ### rank=np.linalg.matrix_rank(matrix)
 ### print(rank)
 ## Output:
-![Output](/rank_of_matrix.png)
+![alt text](rank_of_matrix-1.png)
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
